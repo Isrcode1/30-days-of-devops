@@ -1,0 +1,37 @@
+=================================================
+               SYSTEM REPORT
+=================================================
+Hostname: DESKTOP-K7QT2SV
+Date: Wed Feb 25 18:37:47 WAT 2026
+-------------------------------------------------
+
+[ CPU USAGE ]
+%Cpu(s):  0.0 us,  1.6 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  1.6 si,  0.0 st
+
+[ MEMORY USAGE ]
+              total        used        free      shared  buff/cache   available
+Mem:          3.8Gi       250Mi       3.4Gi       0.0Ki       105Mi       3.4Gi
+Swap:         1.0Gi          0B       1.0Gi
+
+[ DISK USAGE ]
+/dev/sdc        251G  1.7G  237G   1% /
+
+[ TOP 5 CPU PROCESSES ]
+  PID CMD                         %MEM %CPU
+   13 -bash                        0.1  0.1
+    1 /init                        0.0  0.0
+   11 /init                        0.0  0.0
+   12 /init                        0.0  0.0
+   83 /bin/bash ./logging_monitor  0.0  0.0
+
+[ TOP 5 MEMORY PROCESSES ]
+  PID CMD                         %MEM %CPU
+   13 -bash                        0.1  0.1
+   83 /bin/bash ./logging_monitor  0.0  0.0
+   97 ps -eo pid,cmd,%mem,%cpu --  0.0  0.0
+   86 /bin/bash ./logging_monitor  0.0  0.0
+    1 /init                        0.0  0.0
+
+=================================================
+               END OF REPORT
+=================================================
