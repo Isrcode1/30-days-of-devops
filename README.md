@@ -23,6 +23,4 @@ Each day focuses on a specific concept and practical implementation.
 
 (Will update daily as I progress.)
 
-## 📌 Why This Repo Exists
 
-This is public proof of consistency, learning, and growth.
